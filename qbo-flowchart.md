@@ -1,6 +1,6 @@
 # Flowchart Web Component
 
-Quandis includes a workflow module that is best modelled on a flow chart. Create a Lit-based web component named `qbo-flowchart` that can:
+Quandis includes a workflow module that is best modelled on a flow chart. Create a [Lit-based](https://lit.dev/) web component named `qbo-flowchart` that can:
 
 - Create a flow chart from scratch
 - Persist the flow chart to a JSON structure
